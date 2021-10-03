@@ -1,11 +1,11 @@
 {
-  "banner": "<span> Join us on </span><a target=\"_blank\" href=\"https://t.me/bufferfinance\" rel=\"noreferrer\">Telegram</a><span> to stay updated</span>",
+  "banner": "<span> Liquidity mining starts on 5th October 4:00 pm UTC 🚀: Join us on </span><a target=\"_blank\" href=\"https://t.me/bufferfinance\" rel=\"noreferrer\">Telegram</a><span> to stay updated</span>",
   "internal_banner": {
-    "text": "Stake iBFR and Earn WBNB 🚀",
+    "text": "Join us on Telegram to stay updated",
     "buttons": [
       {
-        "text": "Stake iBFR",
-        "link": "https://www.buffer.finance/farm"
+        "text": "Telegram",
+        "link": "https://t.me/bufferfinance"
       },
       {
         "text": "Buy iBFR",
