@@ -1,0 +1,19 @@
+{
+  "banner": "<span> Join us on </span><a target=\"_blank\" href=\"https://t.me/bufferfinance\" rel=\"noreferrer\">Telegram</a><span> to stay updated</span>",
+  "internal_banner": {
+    "text": "Stake iBFR and Earn WBNB 🚀",
+    "buttons": [
+      {
+        "text": "Stake iBFR",
+        "link": "https://www.buffer.finance/farm"
+      },
+      {
+        "text": "Buy iBFR",
+        "link": "https://pancakeswap.finance/swap?outputCurrency=0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5"
+      }
+    ]
+  },
+  "show_vesting": true,
+  "show_farm": true,
+  "show_options": false
+}
