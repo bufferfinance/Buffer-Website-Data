@@ -15,5 +15,8 @@
   },
   "show_vesting": true,
   "show_farm": true,
-  "show_options": false
+  "show_options": {
+    "status": false,
+    "false_message": "Options and Predictions trading will be starting soon!"
+  }
 }
