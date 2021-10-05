@@ -1,15 +1,15 @@
 {
   "banner": "<span> Liquidity mining starts on 5th October 4:00 pm UTC 🚀: Join us on </span><a target=\"_blank\" href=\"https://t.me/bufferfinance\" rel=\"noreferrer\">Telegram</a><span> to stay updated</span>",
   "internal_banner": {
-    "text": "Join us on Telegram to stay updated",
+    "text": "Buffer finance's Liquidity pool is now live",
     "buttons": [
       {
-        "text": "Telegram",
-        "link": "https://t.me/bufferfinance"
+        "text": "Add liquidity",
+        "link": "https://app.buffer.finance/liquidity"
       },
       {
-        "text": "Buy iBFR",
-        "link": "https://pancakeswap.finance/swap?outputCurrency=0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5"
+        "text": "Check details",
+        "link": "https://bit.ly/2Yqp8Z2"
       }
     ]
   },
