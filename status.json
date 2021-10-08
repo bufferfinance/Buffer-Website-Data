@@ -1,15 +1,15 @@
 {
   "banner": "<span> Liquidity mining starts on 5th October 4:00 pm UTC 🚀: Join us on </span><a target=\"_blank\" href=\"https://t.me/bufferfinance\" rel=\"noreferrer\">Telegram</a><span> to stay updated</span>",
   "internal_banner": {
-    "text": "Buffer finance's Liquidity pool is now live",
+    "text": "Options trading and Prediction Game is now live",
     "buttons": [
       {
-        "text": "Add liquidity",
-        "link": "https://app.buffer.finance/liquidity"
+        "text": "Buy Options",
+        "link": "https://app.buffer.finance/options"
       },
       {
-        "text": "Check details",
-        "link": "https://bit.ly/2Yqp8Z2"
+        "text": "Place Bets",
+        "link": "https://app.buffer.finance/prediction-game"
       }
     ]
   },
