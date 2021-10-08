@@ -16,7 +16,7 @@
   "show_vesting": true,
   "show_farm": true,
   "show_options": {
-    "status": false,
+    "status": true,
     "false_message": "Options and Predictions trading will be starting on 8th October!"
   }
 }
