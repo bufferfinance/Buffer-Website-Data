@@ -1,5 +1,5 @@
 {
-  "banner": "<span>Official BUFFER contract address<a href="https://bscscan.com/address/0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5" target="_blank" rel="noreferrer" > 0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5 </a></span><span>Official Telegram: <a href="https://twitter.com/Buffer_Finance" target="_blank" rel="noreferrer" > @bufferfinance</a> , Official Twitter:{"  "}<a href="https://twitter.com/Buffer_Finance" target="_blank" rel="noreferrer" > @Buffer_Finance</a>",
+  "banner": `<span>Official BUFFER contract address<a href="https://bscscan.com/address/0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5" target="_blank" rel="noreferrer" > 0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5 </a></span><span>Official Telegram: <a href="https://twitter.com/Buffer_Finance" target="_blank" rel="noreferrer" > @bufferfinance</a> , Official Twitter:{"  "}<a href="https://twitter.com/Buffer_Finance" target="_blank" rel="noreferrer" > @Buffer_Finance</a>`,
   "internal_banner": {
     "text": "Options trading and Prediction Game is now live",
     "buttons": [
