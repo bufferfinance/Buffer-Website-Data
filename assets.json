@@ -1,0 +1,44 @@
+{
+    "data" : [
+        {
+            "name":"amazon",
+            "ticker":"amzn",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/amzn.svg"
+        },
+        {
+            "name":"apple",
+            "ticker":"aapl",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/aapl.svg"
+        },
+        {
+            "name":"binance",
+            "ticker":"bnb",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/bnb.svg"
+        },
+        {
+            "name":"doge",
+            "ticker":"doge",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/doge.svg"
+        },
+        {
+            "name":"eth",
+            "ticker":"eth",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/eth.svg"
+        },
+        {
+            "name":"matic",
+            "ticker":"matic",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/matic.svg"
+        },
+        {
+            "name":"sol",
+            "ticker":"sol",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/sol.svg"
+        },
+        {
+            "name":"tsla",
+            "ticker":"tsla",
+            "icon":"https://raw.githubusercontent.com/bufferfinance/Buffer-Website-Data/main/Assets/tsla.svg"
+        }
+    ]
+}
